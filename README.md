@@ -8,7 +8,7 @@ I want to be able to delete notes I've written before so that I can organize my 
 
 
 ## Preview
-![alt-text](xxxxx.GIF)
+![alt-text](Note Taker.GIF)
 
 ## Deployed Site Link
 Here's the link to my app:  
