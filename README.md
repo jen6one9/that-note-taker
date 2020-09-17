@@ -14,7 +14,7 @@ I want to be able to delete notes I've written before so that I can organize my 
 Here's the link to my app:  
 
 ## Acknowledgements
- 
+The success of this app would not be possible without the support and encouragement of the teaching staff, peers and tutor!  
 
 ## License
 Copyright 2020 Jeneth Diesta
