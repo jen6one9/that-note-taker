@@ -1,0 +1,23 @@
+{
+  "name": "that-note-taker",
+  "version": "1.0.0",
+  "description": "This application will use an express backend and save and retrieve note data from a JSON file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jen6one9/that-note-taker.git"
+  },
+  "keywords": [
+    "note",
+    "taker"
+  ],
+  "author": "jeneth diesta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jen6one9/that-note-taker/issues"
+  },
+  "homepage": "https://github.com/jen6one9/that-note-taker#readme"
+}
