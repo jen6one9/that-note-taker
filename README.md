@@ -2,7 +2,7 @@
 Easy to use application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
 
 ## User Story
-AS a user, I want to be able to write and save notes.
+As a user, I want to be able to write and save notes.
 I want to be able to delete notes I've written before so that I can organize my thoughts and keep track of tasks I need to complete.
 
 
@@ -11,7 +11,7 @@ I want to be able to delete notes I've written before so that I can organize my 
 ![alt-text](noteTaker.GIF)
 
 ## Deployed Site Link
-Here's the link to my app:  
+Here's the link to my app:  https://jen6one9.github.io/that-note-taker/
 
 ## Acknowledgements
 The success of this app would not be possible without the support and encouragement of the teaching staff, peers and tutor!  
